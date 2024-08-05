@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors
 welcome  to **rock  paper scissors** game using HTML,CSS and  JavaScript .This guide  will all necessary  code and explanations.
 
-1. HTML(index.html)
+1. HTML(index.html):
 
 <!DOCTYPE html>
 <html lang="en">
@@ -42,7 +42,7 @@ welcome  to **rock  paper scissors** game using HTML,CSS and  JavaScript .This g
 </body>
 </html>
 
-2.CSS(style.css)
+2.CSS(style.css) :
 
 *{
     margin:0;
@@ -57,7 +57,7 @@ h1{
     line-height:4rem;
 }
 
-.choice{
+  .choice{
     height:165px;
     width:165px;
     border-radius: 50%;
@@ -66,28 +66,28 @@ h1{
     align-items: center;
 }
 
-.choice:hover{
+ .choice:hover{
     
     cursor: pointer;
     background-color: #081b31;
-}
+ }
 
-img{
+ img{
     height:150px;
     width:150px;
     object-fit:cover;
     border-radius:50%;
-}
+ }
 
-.choices{
+ .choices{
     display:flex;
     justify-content: center;
     align-items: center;
     gap:2rem;
     margin-top:5rem;
-}
+ }
 
-.score-board{
+ .score-board{
     display:flex;
     justify-content: center;
     align-items: center;
@@ -112,7 +112,8 @@ img{
     padding: 1rem;
     border-radius: 1rem;
 }
-3.JavaScript(app.js)
+
+3.JavaScript(app.js):
 
 let userScore = 0;
 let compScore = 0;
