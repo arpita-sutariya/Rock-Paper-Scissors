@@ -185,7 +185,7 @@ choices.forEach((choice) => {
     });
 });
 
-Content Writing
+Content Writing :
 Welcome to the classic game of Rock-Paper-Scissors! This simple yet addictive game is easy to play and brings hours of fun. Here’s how it works:
 
 How to Play
@@ -196,6 +196,7 @@ How to Play
     .Scissors cuts Paper.
     .Paper covers Rock.
 If both you and the computer choose the same option, it’s a draw.
+
 Instructions:
 
 Click on one of the buttons: Rock, Paper, or Scissors.
