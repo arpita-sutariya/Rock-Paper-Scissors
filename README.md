@@ -189,9 +189,10 @@ Content Writing :
 Welcome to the classic game of Rock-Paper-Scissors! This simple yet addictive game is easy to play and brings hours of fun. Here’s how it works:
 
 How to Play
-.you will choose one of three options: Rock, Paper, or Scissors.
-.The computer will also make a random choice.
-.The winner is determined by the following rules:
+you will choose one of three options: Rock, Paper, or Scissors.
+The computer will also make a random choice.
+The winner is determined by the following rules:
+
     .Rock crushes Scissors.
     .Scissors cuts Paper.
     .Paper covers Rock.
